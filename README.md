@@ -20,9 +20,11 @@ Use MongoDB to store movie information.
 3. Install NPM packages in client directory
 
    cd client
+   
    npm install
 
-4. Cd back to root directory and run
+5. Cd back to root directory and run
 
    cd ..
+   
    npm start
