@@ -1,4 +1,4 @@
-Movie Library Application
+## Movie Library Application
 
 
 Develop a basic Movie Library application using the MERN stack.
@@ -7,10 +7,14 @@ View details for each movie
 Mark movies as favourites 
 Use MongoDB to store movie information.
 
-BUILDWITH
+## BUILDWITH
+
    MangoDB
+   
    ExpressJS
+   
    ReactJS
+   
    NodeJS
 
 ## Installation
