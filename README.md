@@ -7,6 +7,12 @@ View details for each movie
 Mark movies as favourites 
 Use MongoDB to store movie information.
 
+BUILDWITH
+   MangoDB
+   ExpressJS
+   ReactJS
+   NodeJS
+
 ## Installation
 
 1. Clone the moviesMERN
